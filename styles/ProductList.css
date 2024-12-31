@@ -1,0 +1,20 @@
+.products {
+    margin: 32px auto;
+    max-width: 800px;
+  }
+  
+  .products h2 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  
+  .products ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .products li {
+    margin-bottom: 16px;
+  }
+  
